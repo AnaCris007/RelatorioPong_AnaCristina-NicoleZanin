@@ -21,6 +21,8 @@ Os principais elementos de diversão e desafio estão na sua simplicidade, que c
 ---
 
 ## 3. Proposta de Reinvenção  
+![Rascunho_Pong](https://github.com/user-attachments/assets/a5e81520-35b8-4635-8495-db480b52173e)
+
 **Tela e Ambientações:** O novo contexto explora o espaço sideral de forma ampla, sem um local específico, criando um ambiente que une fenômenos naturais e a tecnologia inovadora representada por naves e uma estação espacial.
 
 **Personagens ou Elementos:** O jogo incorpora elementos relacionados ao espaço sideral, incluindo duas naves paralelas às linhas do jogo, que acompanham nosso elemento principal: o meteoro. O meteoro desempenha o papel da "bolinha" tradicional, movendo-se por todo o cenário e enfrentando obstáculos como um buraco negro, que teletransporta o meteoro para outra parte do jogo. Além disso, a estação espacial funciona como um obstáculo adicional. O placar é apresentado em uma tela que conecta a tecnologia e a inovação com a vastidão do espaço.
@@ -32,7 +34,8 @@ Os principais elementos de diversão e desafio estão na sua simplicidade, que c
 ---
 
 ## 4. Tela Digital do Jogo  
-![pong_documento](assets/space_pong)
+![Space_Pong](https://github.com/user-attachments/assets/73da64a9-b908-4e73-b557-a39ede48079a)
+
 
 **Como o concept foi adaptado para o formato digital?**
 O concept foi transformado em uma versão digital utilizando elementos visuais disponíveis no Canva, imagens da internet, editores de imagem e um gerador de imagens com inteligência artificial. 
